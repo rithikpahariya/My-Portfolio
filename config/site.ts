@@ -4,16 +4,11 @@ export const siteConfig = {
   username: "rithikpahariya",
   description:
     "Rithik Pahariya's portfolio - A modern, responsive Next.js portfolio for developers. This open-source template can be customized to showcase your own skills, projects, and professional experience.",
-  url: "https://nbarkiya.xyz",
+  url: "https://rithik-pahariya.vercel.app",
   links: {
     twitter: "https://x.com/rithikpahariya",
     github: "https://github.com/rithikpahariya",
   },
-  ogImage: "https://nbarkiya.xyz/profile-img.jpg",
-  iconIco:
-    "https://res.cloudinary.com/dbfvcn3f6/image/upload/v1692357384/assets/naman-favicon.ico",
-  logoIcon:
-    "https://res.cloudinary.com/dbfvcn3f6/image/upload/v1692357294/assets/naman-logo.png",
   keywords: [
     "Rithik Pahariya",
     "Full Stack Developer",

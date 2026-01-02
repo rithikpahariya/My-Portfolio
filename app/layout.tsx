@@ -50,7 +50,6 @@ export const metadata = {
     siteName: siteConfig.name,
     images: [
       {
-        url: siteConfig.ogImage,
         width: 1200,
         height: 630,
         alt: siteConfig.name,
@@ -63,18 +62,12 @@ export const metadata = {
     description: siteConfig.description,
     images: [
       {
-        url: siteConfig.ogImage,
         width: 1200,
         height: 630,
         alt: siteConfig.name,
       },
     ],
     creator: `@${siteConfig.username}`,
-  },
-  icons: {
-    icon: siteConfig.iconIco,
-    shortcut: siteConfig.logoIcon,
-    apple: siteConfig.logoIcon,
   },
   manifest: `${siteConfig.url}/site.webmanifest`,
   alternates: {
