@@ -19,9 +19,8 @@ A modern, responsive, and SEO-optimized **Next.js 14 portfolio template** design
 
 ## 🚀 Demo
 
-View the live demo at [https://nbarkiya.xyz/](https://nbarkiya.xyz)
+View the live demo at [https://rithik-pahariya.vercel.app/](https://rithik-pahariya.vercel.app)
 
-https://github.com/namanbarkiya/minimal-next-portfolio/assets/82203888/f93bf5ca-c2bd-4fe5-a413-1050ebf6cf78
 
 ## 🛠️ Tech Stack
 
