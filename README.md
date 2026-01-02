@@ -102,7 +102,6 @@ Built-in SEO features with proper meta tags, structured data, and semantic HTML.
 
 ## 📱 Performance and Responsiveness
 
-![best-portfolio-website-score](https://github.com/namanbarkiya/minimal-next-portfolio/assets/82203888/3fb9c94d-9d99-4e98-92ea-14aadc91b568)
 ![100-score-vercel](https://github.com/namanbarkiya/minimal-next-portfolio/assets/82203888/7cfe28cc-b619-4199-9dab-1cf16723b86d)
 
 This template is optimized for:
@@ -119,7 +118,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙏 Acknowledgements
 
 - Design inspired by modern portfolio best practices
-- Built by [Naman Barkiya](https://github.com/namanbarkiya)
+- Built by [Rithik Pahariya](https://github.com/rithikpahariya)
 - Icons from [Lucide](https://lucide.dev/)
 
 ## 💻 Deploy on Vercel
@@ -128,10 +127,7 @@ The easiest way to deploy your portfolio is using [Vercel](https://vercel.com/ne
 
 Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=namanbarkiya/minimal-next-portfolio&type=Date)](https://star-history.com/#namanbarkiya/minimal-next-portfolio&Date)
 
 ---
 
-**Built with ❤️ by [Rithik Pahariya](https://github.com/namanbarkiya)**
+**Built with ❤️ by [Rithik Pahariya](https://github.com/rithikpahariya)**
