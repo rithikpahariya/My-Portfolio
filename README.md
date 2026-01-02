@@ -21,7 +21,6 @@ A modern, responsive, and SEO-optimized **Next.js 14 portfolio template** design
 
 View the live demo at [https://rithik-pahariya.vercel.app/](https://rithik-pahariya.vercel.app)
 
-
 ## 🛠️ Tech Stack
 
 - **Framework**: [Next.js 14](https://nextjs.org/)
@@ -39,7 +38,7 @@ To get started with your own portfolio website:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/namanbarkiya/minimal-next-portfolio.git my-portfolio
+   git clone https://github.com/rithikpahariya/minimal-next-portfolio.git my-portfolio
    cd my-portfolio
    ```
 
@@ -102,7 +101,7 @@ Built-in SEO features with proper meta tags, structured data, and semantic HTML.
 
 ## 📱 Performance and Responsiveness
 
-![100-score-vercel](https://github.com/namanbarkiya/minimal-next-portfolio/assets/82203888/7cfe28cc-b619-4199-9dab-1cf16723b86d)
+![100-score-vercel](https://github.com/rithikpahariya/minimal-next-portfolio/assets/82203888/7cfe28cc-b619-4199-9dab-1cf16723b86d)
 
 This template is optimized for:
 
@@ -126,7 +125,6 @@ This project is open source and available under the [MIT License](LICENSE).
 The easiest way to deploy your portfolio is using [Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme), the platform from the creators of Next.js.
 
 Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
 
 ---
 
