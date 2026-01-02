@@ -99,8 +99,7 @@ export default function IndexPage() {
           </AnimatedText>
           <div className="mt-4 max-w-[42rem] text-center">
             <p className="leading-normal text-muted-foreground text-sm sm:text-base">
-              Open-source Next.js portfolio template. Fork this on GitHub to
-              create your own developer portfolio.
+            Problem Solver 🧠 | Frontend Engineer 💻 | SaaS Builder | User-First Thinker | React Dev ⚛️ | Web Performance | AI Tools
             </p>
           </div>
 

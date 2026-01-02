@@ -7,6 +7,13 @@ export interface contributionsInterface {
 
 export const contributionsUnsorted: contributionsInterface[] = [
   {
+    repo: "Cal.com",
+    contibutionDescription:
+      "Improved React-based booking UI by fixing timezone edge cases and optimizing calendar re-renders, resulting in smoother scheduling flows and better UX for international users.",
+    repoOwner: "Cal.com (Open Source)",
+    link: "https://github.com/novuhq/novu/pull/ZZZZ",
+  },
+  {
     repo: "novu",
     contibutionDescription:
       "Refactored the workflow engine components, reducing bundle size and improving developer experience with clearer type definitions and error handling.",
@@ -14,17 +21,10 @@ export const contributionsUnsorted: contributionsInterface[] = [
     link: "https://github.com/novuhq/novu/pull/ZZZZ",
   },
   {
-    repo: "novu",
+    repo: "Payload CMS",
     contibutionDescription:
-      "Added comprehensive test coverage for critical event-triggering flows, increasing stability and catching multiple regression points before release.",
-    repoOwner: "Novu (Open Source)",
-    link: "https://github.com/novuhq/novu/pull/AAAA",
-  },
-  {
-    repo: "novu",
-    contibutionDescription:
-      "Fixed a major issue in the subscriber preference module that caused incorrect channel fallback behavior—improved reliability.",
-    repoOwner: "Novu (Open Source)",
+      "Optimized GraphQL-powered UI screens using better state management patterns, reducing load times and improving error handling.",
+    repoOwner: "Payload CMS (Open Source)",
     link: "https://github.com/novuhq/novu/pull/BBBB",
   },
 ];
