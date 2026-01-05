@@ -30,7 +30,14 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Rithik Pahariya | Frontend Engineer",
     description: "Problem Solver | Frontend Engineer | React | TypeScript | AI",
-    images: [],
+    images: [
+      {
+        url: "/profile-img.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Rithik Pahariya Portfolio",
+      },
+    ],
   },
 };
 
