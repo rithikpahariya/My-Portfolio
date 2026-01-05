@@ -27,6 +27,11 @@ export const metadata: Metadata = {
   alternates: {
     canonical: siteConfig.url,
   },
+  openGraph: {
+    title: "Rithik Pahariya | Frontend Engineer",
+    description: "Problem Solver | Frontend Engineer | React | TypeScript | AI",
+    images: [],
+  },
 };
 
 export default function IndexPage() {
@@ -99,7 +104,8 @@ export default function IndexPage() {
           </AnimatedText>
           <div className="mt-4 max-w-[42rem] text-center">
             <p className="leading-normal text-muted-foreground text-sm sm:text-base">
-            Problem Solver 🧠 | Frontend Engineer 💻 | SaaS Builder | User-First Thinker | React Dev ⚛️ | Web Performance | AI Tools
+              Problem Solver 🧠 | Frontend Engineer 💻 | SaaS Builder |
+              User-First Thinker | React Dev ⚛️ | Web Performance | AI Tools
             </p>
           </div>
 
